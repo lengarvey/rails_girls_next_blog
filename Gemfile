@@ -27,3 +27,6 @@ gem 'foundation-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
+
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'devise'
